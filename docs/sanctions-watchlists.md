@@ -24,6 +24,16 @@
 - Sector sanctions
 - Country-based sanctions
 
+### What is OFAC?
+- OFAC is a U.S. Treasury agency that administers and enforces economic and trade sanctions against targeted countries, regimes, individuals, and entities involved in terrorism, narcotics trafficking, proliferation of weapons of mass destruction, and other threats to U.S. national security and foreign policy.
+
+### Purpose of the OFAC Sanctions Registry
+- The OFAC registry helps users search for individuals, entities, vessels, and aircraft that are subject to U.S. sanctions. It combines several lists, most importantly:​
+- The Specially Designated Nationals (SDN) List: Names of individuals, organizations, and vessels whose assets are blocked and with whom U.S. persons are generally prohibited from dealing.​
+- The Consolidated Non-SDN List: Contains names subject to specific, targeted restrictions (sectoral sanctions, transaction limits, etc.) but not complete asset freezes.
+
+##Purpose of the OFAC Sanctions Registry
+
 ### Why BFSI Uses This
 **US compliance requirement** - Banks with USD transactions must screen against OFAC. Correspondent banking relationships require OFAC screening to avoid US penalties.
 
